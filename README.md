@@ -1,4 +1,4 @@
-# Machine_learning
+# Machine Learning
 Projects and programs relative to the Machine Learning course at La Sapienza
 
 Files in the repository:
