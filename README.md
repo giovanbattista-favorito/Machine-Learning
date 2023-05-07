@@ -8,3 +8,4 @@ Files in the repository:
  - Lab session 29/03/2023
  - Esempio 2 di primo esonero
  - Esempio 3 di primo esonero
+ - Esempio di rete neurale ANN
