@@ -11,3 +11,5 @@ Files in the repository:
  - Esempio di rete neurale ANN
  - Lab session (7)
  - Lab session (8)
+ - Esonero 2022
+
